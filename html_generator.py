@@ -309,17 +309,6 @@ def generate_table_from_json(json_obj):
                 </li>
                 </ul>
             </div>
-
-            <div class="d-flex">
-                <!-- Star -->
-                <a class="github-button" href="https://github.com/keraattin/EmailAnalyzer" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star keraattin/EmailAnalyzer on GitHub">Star</a>
-                &nbsp;
-                <!-- Fork -->
-                <a class="github-button" href="https://github.com/keraattin/EmailAnalyzer/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork keraattin/EmailAnalyzer on GitHub">Fork</a>
-                &nbsp;
-                <!-- Follow -->
-                <a class="github-button" href="https://github.com/keraattin" data-size="large" data-show-count="true" aria-label="Follow @keraattin on GitHub">Follow @keraattin</a>
-            </div>
         </nav>
 
         <div class="container-fluid">

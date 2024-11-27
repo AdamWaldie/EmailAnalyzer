@@ -400,8 +400,8 @@ if __name__ == '__main__':
     app_data = json.loads('{"Information": {}, "Analysis":{}}')
     app_data["Information"]["Project"] = {
         "Name":"EmailAnalyzer",
-        "Url":"https://github.com/keraattin/EmailAnalyzer",
-        "Version": "2.0",
+        "Author":"Adam Waldie",
+        "Version": "2.3",
     }
     app_data["Information"]["Scan"] = {
         "Filename": filename,
